@@ -5,8 +5,8 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from EsproMusic import LOGGER
-from EsproMusic.core.client import app, userbot  # Updated import
+from EsproMusic.core.client import app, userbot              # Fixed import for clients
+from EsproMusic.utils.logging import LOGGER                 # Fixed import for LOGGER
 from EsproMusic.core.call import Loy
 from EsproMusic.misc import sudo
 from EsproMusic.plugins import ALL_MODULES
