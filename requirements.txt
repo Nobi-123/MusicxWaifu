@@ -1,0 +1,14 @@
+pyrogram==2.0.106
+TgCrypto
+motor
+dnspython
+python-dotenv
+pytgcalls==2.0.0
+ffmpeg-python
+aiohttp
+requests
+beautifulsoup4
+gitpython
+pillow
+psutil
+yt-dlp
