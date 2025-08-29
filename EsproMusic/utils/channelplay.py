@@ -1,4 +1,4 @@
-from EsproMusic import app
+from EsproMusic.core.client import app
 from EsproMusic.utils.database import get_cmode
 
 
