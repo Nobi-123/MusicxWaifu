@@ -3,7 +3,7 @@ TgCrypto
 motor
 dnspython
 python-dotenv
-pytgcalls==2.0.0
+git+https://github.com/pytgcalls/pytgcalls@main
 ffmpeg-python
 aiohttp
 requests
